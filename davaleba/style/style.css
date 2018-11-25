@@ -1,0 +1,64 @@
+.display-inline-block{
+	display: inline-block;
+}
+.logo{
+	width: 100px;
+	vertical-align: middle;
+	margin-right: 12px;
+}
+.navigation-nav{
+	vertical-align: middle;
+}
+.container{
+	margin: 30px auto auto 30px;
+}
+.navigatio-a{
+	font-size: 22px;
+	text-decoration: none;
+	color: #3D58A6;
+}
+.active{
+	color: #EE4036;
+    font-size: 22px;
+	text-decoration: none;
+}
+.navigation-li{
+	padding: 0 12px 0 12px;
+}
+.data{
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 54px;
+	color: white;
+	margin-top: 54px;
+	margin-bottom: 3px;
+	padding: 10px 8px 12px 5px;
+}
+.h1{
+	font-size: 20px;
+	margin-top: 30px;
+}
+.img{
+	width: 270px;
+	margin-top: 24px;
+	vertical-align: top;
+}
+.class-p{
+	margin-left: 40px;
+	margin-top: 24px;
+	width: 930px;
+
+}
+.social-icons{
+	height: 30px; 
+    margin-right: 35px;
+    margin-top: 240px;
+    margin-bottom: 25px;
+
+}
+.divider{
+    height: 30px;
+    width: 2px;
+    background-color: #3D58A6;
+    margin-right: 35px;
+}
